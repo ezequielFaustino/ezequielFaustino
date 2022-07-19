@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>Meu nome é Ezequiel Faustino, atualmente sou estudante Técnico de Informática e tenho focado na área de programação :)</p>
+<p>Meu nome é Ezequiel Faustino, atualmente sou estudante Técnico de Informática e tenho focado na área de programação :grin:</p>
 
 <p>O que tenho estudado hoje é a linguagem de programação Javascript junto a linguagem de marcação HTML e a linguagem de folhas de estilos CSS.</p>
 
-<p>Mais pra frente pretendo estudar Java com um pouco mais de paciência :lol </p>
+<p>Mais pra frente pretendo estudar Java com um pouco mais de paciência :laughing: </p>
 
 <!-- GITHUB STATUS -->
 <div align="center">
