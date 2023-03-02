@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello
 
 <!--
 **ezequielFaustino/ezequielFaustino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>Meu nome é Ezequiel Faustino, atualmente sou estudante Técnico de Informática e tenho focado na área de programação :grin:</p>
-
-<p>O que tenho estudado hoje é a linguagem de programação Javascript junto a linguagem de marcação HTML e a linguagem de folhas de estilos CSS.</p>
-
 
 <!-- GITHUB STATUS -->
 <div align="center">
